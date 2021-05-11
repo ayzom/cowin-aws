@@ -1,0 +1,24 @@
+{
+  "name": "cowin-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayzom/cowin-aws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayzom/cowin-aws/issues"
+  },
+  "homepage": "https://github.com/ayzom/cowin-aws#readme",
+  "dependencies": {
+    "aws-sdk": "^2.904.0",
+    "axios": "^0.21.1"
+  }
+}
